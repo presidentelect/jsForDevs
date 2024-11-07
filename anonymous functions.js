@@ -19,7 +19,7 @@ var g = function () {
 
 foo();
 f();
-express();
+// express();  // doesn't work, says express is not defined
 g();
 
 
